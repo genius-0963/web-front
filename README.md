@@ -87,13 +87,3 @@ Commit your changes and push to your forked repository.
 Submit a pull request to the main repository.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-### Steps to Add the `README.md` File:
-1. Create a file named `README.md` in the root of your repository.
-2. Paste the content above into the `README.md` file.
-3. Add and commit the file to your repository:
-
-   ```bash
-   git add README.md
-   git commit -m "Added README file"
-   git push origin mastergit clone https://github.com/genius-0963/web-front.git
